@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.buttonList{
+  margin-top: 5px;
+}
+
+.buttonList button{
+  margin-left: 3px;
+}
+
+.graph{
+  height: 60vh;
+  width: 180vh;
+  margin-left: 20px;
+  margin-right: 20px;
+}
